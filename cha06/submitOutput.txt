@@ -1,0 +1,100 @@
+Case #1: AMBIGUOUS
+Case #2: d f g i t l r y h
+Case #3: r g k
+Case #4: AMBIGUOUS
+Case #5: AMBIGUOUS
+Case #6: j p y w l x b c d o s g t r n
+Case #7: AMBIGUOUS
+Case #8: u f j s a t i n k q
+Case #9: d n h i b m o s z a x u c f r w l k y
+Case #10: h b v r l t c
+Case #11: c l n
+Case #12: AMBIGUOUS
+Case #13: r m n f v x o i b u w
+Case #14: w p l t b i
+Case #15: z v y s c a t f p d o q
+Case #16: x e w n p c s f d b v h j
+Case #17: s e w d l z m c r h n f p v o a k u g t i y q x b
+Case #18: q g z f m o u c w e n
+Case #19: v i p e l z d k m g q s j r h t a x n o f y
+Case #20: f a y u g o e x m j v i c l r d h n k z q w
+Case #21: AMBIGUOUS
+Case #22: o e v z k h j s t m q d n l r b c g u f w
+Case #23: a c b y m g i t r q n f d v k x w z h
+Case #24: AMBIGUOUS
+Case #25: a w z s r p g j f y u k x q l m b o i t c d h v
+Case #26: z k e a y r v
+Case #27: j c d a b t f i s
+Case #28: u o i m v h q n b l t j s e
+Case #29: v y d a o t s b h l m i z k n
+Case #30: b o w v j r x a t y u e m
+Case #31: k n f m y q r i v o h t z s e b a u p d g w
+Case #32: k i b c l q a g f p r t z h s d
+Case #33: f b z y j o u a x c n p w r h s d e m
+Case #34: q m i u n y s z x b v g
+Case #35: e j d u z f k
+Case #36: p e b r l g c h u i n k m o v a z w
+Case #37: s t q m d v c u z p
+Case #38: l o t s g q n e r u b
+Case #39: AMBIGUOUS
+Case #40: s j i q x m l t v k h d y a p u n w
+Case #41: t h r n b o k i p d a z f w y g e
+Case #42: n t w e b r v a c y g i j u o q
+Case #43: l q a i r u x k
+Case #44: u x y h k l f i s c n v b j e p z t r m d w g o a
+Case #45: q u p j z h t n v s i w y b l e a k
+Case #46: f e d c s a p b v k i
+Case #47: h a r w c n k x j z p d u l t f
+Case #48: l g s e r x k f a h d q m p n i y z b v t w u j
+Case #49: i q s m x p w a t j l c g z b r v o u f
+Case #50: o f p d r u b v z s m g t a e w
+Case #51: p o s n v j y z h u q e w x t b d i l m k
+Case #52: u b p z e l j i w t a r m h x s c q
+Case #53: w u y d e n h k o g i v j m c a p q s t r z b
+Case #54: m i c v q b d p a l f r u y x g
+Case #55: u z a y g t h d q n k b f j o l p x e i s r w m v c
+Case #56: y r a u d x w z o
+Case #57: y k j o g c l b t r z h d p n v a w i q e
+Case #58: x p l q b m u s w f k z h t j
+Case #59: l o j u t b m h g p w
+Case #60: y x v r n s m u q c z p w i e f
+Case #61: a h q f i e s o p w
+Case #62: j v s g d b u i p a y r h f k
+Case #63: d c p a i z k b m w s q e u t g v j x l y
+Case #64: x r s a t e c i d z m p y o l
+Case #65: p t z f o s a b y l i g n h r v x d c j e m w u
+Case #66: s q r t c y v b d n k u l o x e
+Case #67: c f a r i o q h v j k t d z n b y g e w m p
+Case #68: c o v q w t a l p m r f i k
+Case #69: r k n y l x w v z j b e g
+Case #70: b c g e f z m k h v r o i q
+Case #71: x w d o h j t a e z y r i n f
+Case #72: p t x d h o q w k a b r m u i n e
+Case #73: s m l i c e f h t u
+Case #74: g h r e t c j a z o y w i q p d b n u x
+Case #75: w r s a d q n p t h f m v x i e y j b o u z g c
+Case #76: k e u b j y q h v r o n a s w g t p m l
+Case #77: g x u y n h j c v d s a f m z l e b o r k w t i q
+Case #78: d m b x r i t a e s h v u l z g f n c y
+Case #79: l r x c f j v u m w i z h s
+Case #80: l b s y p k g m x v r q h i n a o w e t d c j z f u
+Case #81: c m o g z s n u y j e d x f a h p i w q b t k l v r
+Case #82: s q w y x u m z a d b o k t r l n c p j
+Case #83: w i m p u t e j y c b q h n k x a s r d o l z f
+Case #84: m u g z o l d c f t n k i a q v h y s r x e b
+Case #85: y j i l a t u k p o d x f c v m h
+Case #86: t k f l y p b n o d v x a w u z r g
+Case #87: u g n e q r o h c z b f a d w j k i m p l y t v
+Case #88: a m e b o t y l h r q s f x k p c u d i g v
+Case #89: e h f x p k t i m d u y c l g q v n a r z s
+Case #90: m x n v y q g k z w c f o p h i b j l a t d u r e s
+Case #91: l k u w h z m i r q e j g d b c x t o y v f a p s
+Case #92: c u f s e v z r i j q p k h d l n m a y x g t b w
+Case #93: b g i k o f u r s y l h n v m t w
+Case #94: j s f q e z d r y w k v a o c m p l g n x b u i t
+Case #95: y a s x n f b m i h j w r c l o t q k
+Case #96: m f c q r i a v z t d w e p l h j b y g x s o u n k
+Case #97: b z n k w j d c y r p i l g v f o u h t x s
+Case #98: x d g n k i s l b v f z c m q t a u h o j e
+Case #99: z d v w o a n h j u s t r b m e y f x k c i q l p
+Case #100: e z m q y n h i g w o l v d b c r f a x j u k t s

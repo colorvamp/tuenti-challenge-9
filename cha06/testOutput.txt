@@ -1,0 +1,100 @@
+Case #1: c
+Case #2: t
+Case #3: v
+Case #4: t w
+Case #5: AMBIGUOUS
+Case #6: AMBIGUOUS
+Case #7: u a
+Case #8: AMBIGUOUS
+Case #9: AMBIGUOUS
+Case #10: AMBIGUOUS
+Case #11: AMBIGUOUS
+Case #12: AMBIGUOUS
+Case #13: AMBIGUOUS
+Case #14: AMBIGUOUS
+Case #15: u d
+Case #16: e n o
+Case #17: g d
+Case #18: t o w
+Case #19: AMBIGUOUS
+Case #20: i o w f
+Case #21: w p e
+Case #22: k b
+Case #23: AMBIGUOUS
+Case #24: k b t
+Case #25: AMBIGUOUS
+Case #26: m n t g
+Case #27: p u x f y i
+Case #28: AMBIGUOUS
+Case #29: AMBIGUOUS
+Case #30: q f g
+Case #31: v l o
+Case #32: w u q s a d c h g
+Case #33: AMBIGUOUS
+Case #34: AMBIGUOUS
+Case #35: c a w q t o
+Case #36: AMBIGUOUS
+Case #37: n g v p x
+Case #38: AMBIGUOUS
+Case #39: AMBIGUOUS
+Case #40: e c m i h
+Case #41: t a k u p i l
+Case #42: g x c h o
+Case #43: AMBIGUOUS
+Case #44: c j r p z q t
+Case #45: AMBIGUOUS
+Case #46: AMBIGUOUS
+Case #47: AMBIGUOUS
+Case #48: AMBIGUOUS
+Case #49: g m r t k f u
+Case #50: e t w n d k o z l
+Case #51: AMBIGUOUS
+Case #52: AMBIGUOUS
+Case #53: i o c s q
+Case #54: AMBIGUOUS
+Case #55: AMBIGUOUS
+Case #56: AMBIGUOUS
+Case #57: b t v w f
+Case #58: AMBIGUOUS
+Case #59: e z f a p m x
+Case #60: i e b y f
+Case #61: s l h u d n r
+Case #62: t z n c g h x
+Case #63: u h y e k w i s
+Case #64: a h d g s
+Case #65: AMBIGUOUS
+Case #66: g i s u e b v
+Case #67: d q v t x e f
+Case #68: p b z m x u f j
+Case #69: AMBIGUOUS
+Case #70: t a p m y x r u
+Case #71: q z o x d y
+Case #72: t n c e a v
+Case #73: AMBIGUOUS
+Case #74: AMBIGUOUS
+Case #75: t u v d f p w
+Case #76: AMBIGUOUS
+Case #77: m z n e v l
+Case #78: h l k c g v d t q
+Case #79: AMBIGUOUS
+Case #80: u d a w o f b g
+Case #81: u b j q h m z n a
+Case #82: u b g t m p
+Case #83: AMBIGUOUS
+Case #84: s x g v e r t
+Case #85: x n b g z c t q f
+Case #86: f i t w p h s v m
+Case #87: y k g f s j p
+Case #88: q d r u f t a
+Case #89: z b s l m g e c t
+Case #90: z f h g q u o
+Case #91: k h o w u q r j b l
+Case #92: j w h x k g a
+Case #93: q t e s p h c d v g
+Case #94: j y c q d p u i
+Case #95: f e a i r u b s
+Case #96: n s j l w h y i c
+Case #97: b q u x g y e p f
+Case #98: k l d t q w j c h f
+Case #99: c e a b j q m s
+Case #100: d k a u i q m p

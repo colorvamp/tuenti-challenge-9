@@ -1,0 +1,21 @@
+SELECT *,@num := if(@num IS NULL,1,@num) as n,@num := if(action = "open", @num + 0, @num + 1) as session FROM `activity` order by date_time
+
+SELECT t.user_id
+	, CAST(MIN(t.date_time) AS CHAR) as session_from
+	, CAST(MAX(t.date_time) AS CHAR) as session_to
+	, TIMESTAMPDIFF(SECOND,MIN(t.date_time),MAX(t.date_time)) as seconds
+	, count(*) as num_actions
+FROM (
+	SELECT *
+	,@num := if(action = "open", @num + 1, @num + 0) as session1
+	,@num := if(action = "close", @num + 1, @num + 0) as session2
+	FROM `activity` as xx
+	CROSS JOIN (SELECT @num := 0) var
+	ORDER BY xx.date_time
+) as t GROUP BY t.user_id,t.session1 ORDER by t.user_id, session_from
+
+
+
+SELECT t.user_id , CAST(MIN(t.date_time) AS CHAR) as session_from , CAST(MAX(t.date_time) AS CHAR) as session_to , TIMESTAMPDIFF(SECOND,MIN(t.date_time),MAX(t.date_time)) as seconds , count(*) as num_actions FROM ( SELECT * ,@num := if(action = "open", @num + 1, @num + 0) as session1 ,@num := if(action = "close", @num + 1, @num + 0) as session2 FROM `activity` as xx CROSS JOIN (SELECT @num := 0) var ORDER BY xx.date_time ) as t GROUP BY t.user_id,t.session1  ORDER by t.user_id, session_from
+
+

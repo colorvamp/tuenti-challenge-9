@@ -1,0 +1,51 @@
+50
+200 ifrit 2 ice resist_wind
+100 shiva 0
+500 phoenix 2 dark ice
+2000 phoenix 2 dark ice
+3000 phoenix 1 resist_thunder
+40220 character18 0
+59940 character34 0
+61500 character42 0
+68480 character33 0
+50220 character21 0
+44630 character22 0
+13980 character23 0
+34234 character39 0
+84560 character26 0
+92590 character44 0
+9260 character52 0
+27090 character54 0
+7750 character74 0
+66090 character43 1 skill67
+59970 character54 1 light
+27070 character32 1 skill73
+16040 character21 1 skill43
+82970 character78 1 skill27
+7880 character80 1 skill45
+27310 character46 1 skill17
+19760 character32 1 skill50
+28050 character75 1 cure
+89450 character86 1 light
+79880 character21 1 resist_light
+51900 character34 1 skill54
+33260 character66 1 resist_fire
+19980 character28 1 resist_fire
+67120 character64 1 resist_dark
+57230 character65 1 skill69
+67420 character85 1 skill27
+88560 character85 1 skill67
+48070 character86 1 skill82
+6350 character66 1 increase_defense
+71220 character79 1 skill77
+58680 character50 2 skill9 skill59
+55870 character67 1 resist_dark
+55150 character66 2 skill40 skill6
+61330 character66 2 dark increase_defense
+41170 character41 2 skill10 skill60
+83170 character64 2 skill19 skill39
+4050 character61 2 skill3 skill35
+73110 character65 2 skill0 skill70
+97650 character73 2 skill13 skill42
+84230 character83 2 skill19 skill39
+34234 character94 2 ice skill6

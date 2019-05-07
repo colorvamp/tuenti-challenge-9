@@ -1,0 +1,1201 @@
+200 1000
+shiva 1 100 2 resist_ice ice
+typhoon 1 100 2 resist_wind wind
+pixie 1 200 2 thunder cure
+succubus 1 200 2 dark resist_dark
+ifrit 2 200 2 fire resist_fire
+angel 2 300 2 light resist_light
+thor 2 300 2 thunder resist_thunder
+orobas 3 400 2 increase_attack increase_defense
+mithra 4 450 1 cure
+phoenix 5 500 1 resurrect
+character0 6 510 1 skill30
+character1 6 520 0 
+character2 7 530 2 skill75 wind
+character3 7 540 4 skill56 skill9 skill48 skill25
+character4 8 550 0 
+character5 8 560 1 skill63
+character6 9 570 4 skill71 cure skill7 skill32
+character7 9 580 2 skill12 skill75
+character8 10 590 0 
+character9 10 600 4 skill29 resist_ice wind skill24
+character10 11 610 0 
+character11 11 620 0 
+character12 12 630 1 skill46
+character13 12 640 4 skill45 resist_ice skill26 skill49
+character14 13 650 2 skill71 wind
+character15 13 660 0 
+character16 14 670 5 skill45 skill58 skill72 skill38 skill2
+character17 14 680 5 dark skill53 skill26 skill63 skill6
+character18 15 690 2 skill19 skill14
+character19 15 700 0 
+character20 16 710 5 skill70 skill29 skill39 skill52 skill32
+character21 16 720 0 
+character22 17 730 0 
+character23 17 740 1 wind
+character24 18 750 2 skill18 skill10
+character25 18 760 3 resurrect skill80 resist_wind
+character26 19 770 5 skill12 skill65 skill39 skill74 wind
+character27 19 780 5 skill45 skill23 resist_ice skill51 skill69
+character28 20 790 3 skill21 skill48 skill24
+character29 20 800 1 skill19
+character30 21 810 0 
+character31 21 820 3 skill57 skill34 skill50
+character32 22 830 2 skill66 skill47
+character33 22 840 5 skill3 skill34 skill19 skill73 skill4
+character34 23 850 0 
+character35 23 860 5 skill13 skill58 skill38 skill60 skill49
+character36 24 870 3 skill67 skill16 skill32
+character37 24 880 1 skill78
+character38 25 890 0 
+character39 25 900 5 skill35 skill67 skill26 skill27 skill81
+character40 26 910 0 
+character41 26 920 4 resist_wind skill20 skill60 resist_light
+character42 27 930 4 dark light skill29 skill40
+character43 27 940 3 resurrect skill45 skill12
+character44 28 950 5 skill44 skill3 skill82 skill19 skill27
+character45 28 960 2 skill53 skill24
+character46 29 970 3 skill55 skill5 skill69
+character47 29 980 2 skill71 skill32
+character48 30 990 0 
+character49 30 1000 0 
+character50 31 1010 2 skill57 skill62
+character51 31 1020 4 skill67 skill65 skill16 skill68
+character52 32 1030 0 
+character53 32 1040 3 skill71 skill1 skill72
+character54 33 1050 4 skill3 skill29 skill65 skill1
+character55 33 1060 5 skill66 skill78 skill39 skill30 increase_defense
+character56 34 1070 0 
+character57 34 1080 1 skill30
+character58 35 1090 4 skill39 skill0 skill48 skill31
+character59 35 1100 4 skill70 resist_thunder skill16 skill78
+character60 36 1110 2 skill36 skill39
+character61 36 1120 0 
+character62 37 1130 4 increase_attack skill70 resist_wind skill24
+character63 37 1140 3 skill66 skill73 skill6
+character64 38 1150 2 skill1 cure
+character65 38 1160 2 fire skill75
+character66 39 1170 1 skill71
+character67 39 1180 2 skill20 skill52
+character68 40 1190 0 
+character69 40 1200 1 resist_ice
+character70 41 1210 2 skill56 skill18
+character71 41 1220 4 skill78 skill55 skill59 skill14
+character72 42 1230 3 skill8 skill40 skill14
+character73 42 1240 5 skill57 increase_defense skill27 skill42 skill2
+character74 43 1250 2 increase_defense skill52
+character75 43 1260 3 light skill39 skill24
+character76 44 1270 2 skill28 skill19
+character77 44 1280 5 skill32 skill73 skill72 skill30 skill50
+character78 45 1290 0 
+character79 45 1300 0 
+character80 46 1310 3 skill44 skill74 skill4
+character81 46 1320 4 skill23 skill54 skill42 skill81
+character82 47 1330 4 skill13 thunder skill1 skill6
+character83 47 1340 5 skill80 skill83 skill40 skill5 skill50
+character84 48 1350 1 skill30
+character85 48 1360 4 skill44 skill81 cure skill3
+character86 49 1370 1 skill14
+character87 49 1380 3 skill44 skill35 skill55
+character88 50 1390 4 skill34 skill68 skill33 skill14
+character89 50 1400 0 
+character90 51 1410 5 skill64 resist_ice skill16 skill46 skill50
+character91 51 1420 4 skill81 skill46 skill30 skill25
+character92 52 1430 3 resist_fire skill40 skill76
+character93 52 1440 1 skill68
+character94 53 1450 5 skill83 skill70 skill61 skill47 skill43
+character95 53 1460 4 skill62 skill40 skill77 skill32
+character96 54 1470 5 dark skill20 skill47 skill64 skill77
+character97 54 1480 1 skill43
+character98 55 1490 3 resist_wind skill13 skill66
+character99 55 1500 0 
+character100 56 1510 5 skill73 skill63 skill39 skill6 skill25
+character101 56 1520 5 dark skill12 skill82 skill33 skill45
+character102 57 1530 2 skill21 skill25
+character103 57 1540 1 skill23
+character104 58 1550 4 skill82 skill18 cure skill1
+character105 58 1560 3 skill57 light skill5
+character106 59 1570 0 
+character107 59 1580 3 skill64 skill72 skill30
+character108 60 1590 3 skill40 skill27 resist_light
+character109 60 1600 5 skill44 increase_defense skill52 ice skill69
+character110 61 1610 3 skill35 dark skill26
+character111 61 1620 3 dark skill21 skill47
+character112 62 1630 0 
+character113 62 1640 3 skill3 resist_wind skill74
+character114 63 1650 1 skill23
+character115 63 1660 3 resist_wind skill64 skill15
+character116 64 1670 5 skill35 skill81 skill42 wind skill32
+character117 64 1680 5 skill40 skill47 skill31 skill49 resist_dark
+character118 65 1690 1 skill70
+character119 65 1700 0 
+character120 66 1710 2 dark skill70
+character121 66 1720 5 skill21 skill47 skill82 skill24 skill43
+character122 67 1730 0 
+character123 67 1740 0 
+character124 68 1750 4 resist_wind skill53 skill17 skill42
+character125 68 1760 1 light
+character126 69 1770 5 resurrect skill55 wind skill77 skill76
+character127 69 1780 0 
+character128 70 1790 3 thunder skill73 skill50
+character129 70 1800 5 skill4 skill39 skill41 skill33 skill50
+character130 71 1810 3 skill71 skill9 skill75
+character131 71 1820 4 skill2 skill46 skill21 resist_fire
+character132 72 1830 5 skill2 skill9 skill78 skill77 skill14
+character133 72 1840 2 skill15 skill14
+character134 73 1850 5 skill35 skill80 skill7 wind skill76
+character135 73 1860 0 
+character136 74 1870 3 resurrect cure skill6
+character137 74 1880 1 skill24
+character138 75 1890 2 fire skill75
+character139 75 1900 2 skill8 skill26
+character140 76 1910 2 resist_thunder skill33
+character141 76 1920 5 skill25 skill54 skill30 skill33 skill14
+character142 77 1930 5 resurrect skill11 skill30 resist_fire resist_light
+character143 77 1940 4 skill66 skill57 skill83 skill17
+character144 78 1950 2 skill56 resist_fire
+character145 78 1960 0 
+character146 79 1970 3 skill64 resist_thunder skill75
+character147 79 1980 3 resist_fire skill42 skill59
+character148 80 1990 2 skill49 skill58
+character149 80 2000 3 skill45 skill69 skill58
+character150 81 2010 4 skill54 skill53 wind skill4
+character151 81 2020 0 
+character152 82 2030 5 skill2 skill73 skill47 ice skill61
+character153 82 2040 2 fire resist_fire
+character154 83 2050 5 skill12 skill67 resist_ice skill31 skill45
+character155 83 2060 5 skill44 skill5 skill38 skill68 skill16
+character156 84 2070 4 fire skill67 cure skill5
+character157 84 2080 2 skill40 skill61
+character158 85 2090 3 skill28 skill39 skill77
+character159 85 2100 4 dark skill30 skill60 skill50
+character160 86 2110 4 skill13 skill70 skill9 skill28
+character161 86 2120 3 skill54 skill8 skill76
+character162 87 2130 1 skill41
+character163 87 2140 4 skill2 skill55 skill61 skill50
+character164 88 2150 1 skill16
+character165 88 2160 2 skill22 skill40
+character166 89 2170 4 dark skill9 skill18 skill73
+character167 89 2180 2 skill78 skill10
+character168 90 2190 4 skill62 skill48 skill52 skill61
+character169 90 2200 1 skill15
+character170 91 2210 0 
+character171 91 2220 2 increase_attack skill61
+character172 92 2230 0 
+character173 92 2240 2 light resist_ice
+character174 93 2250 3 skill57 light skill7
+character175 93 2260 0 
+character176 94 2270 2 skill82 skill15
+character177 94 2280 0 
+character178 95 2290 1 skill1
+character179 95 2300 1 skill2
+character180 96 2310 5 skill22 skill1 cure resist_dark skill50
+character181 96 2320 2 increase_defense skill28
+character182 97 2330 4 fire skill81 skill15 skill58
+character183 97 2340 5 skill38 skill82 skill19 skill74 skill32
+character184 98 2350 3 skill29 skill36 skill48
+character185 98 2360 5 wind skill9 skill18 ice skill77
+character186 99 2370 0 
+character187 99 2380 1 skill83
+character188 100 2390 5 resurrect skill56 increase_defense skill10 skill34
+character189 100 2400 1 skill72
+ifrit shiva typhoon
+angel pixie succubus
+orobas angel ifrit
+mithra thor succubus
+phoenix orobas mithra
+character83 character12 character68
+character141 character63 character83
+character179 character155 character65
+character148 character138 character51
+character102 character18 pixie
+character145 character102 character29
+character171 character10 character44
+character184 character162 character173
+character73 character46 character8
+character119 character32 character6
+character143 character100 character24
+character139 character1 shiva
+character110 character50 character65
+character72 character14 character64
+character189 character105 character41
+character119 character102 character110
+character146 character110 character55
+character189 character157 character174
+character186 character15 character17
+character142 character106 character94
+character126 character12 character74
+character187 character177 character32
+character135 character4 typhoon
+character148 character52 character92
+character76 character10 character24
+character124 character19 character70
+character187 character71 character84
+character174 character143 character53
+character151 character103 character131
+character176 character120 character79
+character66 character63 orobas
+character183 character16 character79
+character87 character5 mithra
+character96 character63 character73
+character54 character10 pixie
+character138 character106 character13
+character170 character158 character71
+character139 character71 character91
+character135 character41 character80
+character89 character0 typhoon
+character120 character32 character93
+character155 character120 character30
+character135 character35 character7
+character179 character35 succubus
+character137 character51 character85
+character165 character128 character3
+character128 character119 character16
+character154 character38 character62
+character161 character37 character85
+character145 character43 character78
+character167 character26 character51
+character129 character121 character7
+character159 character38 character78
+character106 character103 typhoon
+character118 character102 character7
+character106 character31 character40
+character18 character11 character5
+character102 character80 character87
+character150 character91 shiva
+character168 character67 character92
+character104 character0 character54
+character133 character73 character77
+character158 character144 character34
+character162 character116 character20
+character182 character171 character80
+character105 character83 mithra
+character164 character24 character58
+character185 character115 character147
+character116 character1 character58
+character155 character122 character136
+character110 character11 typhoon
+character178 character11 character13
+character157 character128 character84
+character68 character45 character48
+character171 character1 character102
+character179 character171 character19
+character186 character42 character76
+character172 character110 character136
+character92 character69 typhoon
+character107 character55 character62
+character79 character30 character64
+character179 character102 character120
+character143 character25 character28
+character118 character21 character88
+character124 character119 character69
+character143 character12 typhoon
+character92 character18 character57
+character63 character24 character29
+character105 character46 character93
+character176 character31 character62
+character185 character112 character32
+character188 character132 character179
+character181 character178 character7
+character184 character107 character171
+character166 character133 shiva
+character150 character56 character80
+character147 character46 character82
+character167 character123 character23
+character120 character19 character49
+character165 character107 character125
+character188 character45 character59
+character156 character144 character37
+character169 character146 character165
+character169 character130 character54
+character70 angel character0
+character87 character3 character63
+character133 character21 character37
+character182 character167 character82
+character176 character149 character150
+character138 character105 character111
+character173 character70 character98
+character118 character30 character73
+character161 character112 character85
+character166 character13 character20
+character64 character18 character55
+character76 character19 character38
+character167 character141 character38
+character186 character104 phoenix
+character163 character151 character81
+character95 character79 typhoon
+character181 character24 character89
+character168 character59 character84
+character145 character128 character21
+character178 character13 character40
+character121 character1 character16
+character120 character42 character72
+character155 character12 character29
+character19 character6 succubus
+character169 character154 character2
+character167 character104 character133
+character131 character103 character20
+character179 angel character5
+character103 character47 character96
+character38 character26 character28
+character124 character34 character54
+character119 character18 character92
+character100 character16 character46
+character177 character7 character87
+character181 character35 character68
+character140 character65 character85
+character172 character45 character5
+character164 character56 character81
+character173 character125 character25
+character141 character113 character75
+character169 character161 character17
+character101 character32 orobas
+character118 character110 character23
+character128 character64 character9
+character172 character30 character70
+character147 character65 character78
+character174 character170 character88
+character172 character24 character4
+character125 character11 character121
+character107 character25 character81
+character113 character101 character21
+character175 character5 character72
+character88 character10 thor
+character167 character165 character34
+character186 character147 character28
+character142 character94 character99
+character154 character23 character26
+character146 character17 character30
+character114 character42 character70
+character144 character114 character82
+character184 character104 character183
+character148 character133 character61
+character173 character46 character54
+character167 character12 character35
+character78 character44 character77
+character181 character159 character16
+character145 character133 character59
+character161 character23 character57
+character124 character84 character96
+character147 character111 character76
+character153 character119 mithra
+character134 character119 character86
+character167 character10 character36
+character103 character41 character70
+character65 angel character60
+character74 character62 character69
+character157 character50 character69
+character68 character0 character36
+character147 character22 character6
+character161 character83 character90
+character139 character122 character125
+character132 character19 character6
+character184 character6 character61
+character111 character0 character82
+character123 character1 character115
+character141 character110 character18
+character82 character55 character70
+character142 character106 character60
+character168 character145 character21
+character132 character114 character128
+character189 character143 character96
+character119 character29 character49
+character162 character42 character75
+character159 character126 character48
+character139 character72 character74
+character152 character113 character142
+character165 character108 character53
+character172 character110 character133
+character166 character133 character4
+character165 character55 character95
+character168 character110 character19
+character147 character121 character20
+character118 character5 character53
+character123 character34 character70
+character122 character11 character76
+character124 character72 character90
+character144 character102 phoenix
+character168 character25 character73
+character111 character107 orobas
+character101 character60 phoenix
+character158 character123 character64
+character73 character58 character68
+character170 character25 character9
+character168 character140 character43
+character141 character133 character96
+character156 character141 character96
+character174 character123 character88
+character114 character74 character83
+character169 character124 character59
+character160 character129 character46
+character73 character40 character55
+character127 character13 character85
+character186 character113 character180
+character124 character74 character84
+character166 character42 character89
+character97 character61 character71
+character189 character57 character65
+character178 character102 character149
+character85 character19 character32
+character119 character66 character73
+character117 character115 character36
+character178 character173 shiva
+character152 character31 character9
+character142 character130 character139
+character59 character18 typhoon
+character187 character102 character88
+character124 character50 character9
+character147 character120 character41
+character172 angel character112
+character182 character101 succubus
+character175 character104 character64
+character85 character59 phoenix
+character180 character175 character37
+character112 character94 character95
+character187 character164 character52
+character141 character112 character133
+character136 character21 character92
+character174 character138 character18
+character96 character14 character5
+character180 character132 character134
+character167 character14 character162
+character166 character36 character7
+character168 character68 character93
+character100 character2 character57
+character110 character0 character23
+character104 character27 character94
+character166 character126 character59
+character186 character43 character53
+character56 character29 character3
+character92 character53 character89
+character158 character48 character53
+character169 character20 character25
+character175 character113 character171
+character185 character127 character87
+character146 character54 character92
+character139 character116 character50
+character156 character89 character94
+character62 character16 phoenix
+character160 character159 succubus
+character172 character108 character69
+character186 character73 character9
+character62 character29 character47
+character167 character50 character7
+character175 character113 character160
+character174 character25 character56
+character65 character52 phoenix
+character188 character183 character73
+character145 character28 character94
+character93 character13 character26
+character161 character128 character87
+character179 character15 character90
+character186 character164 character182
+character87 character40 character75
+character69 character18 character42
+character171 character11 character145
+character151 character124 ifrit
+character155 character114 character56
+character134 character113 character14
+character158 character136 character53
+character180 character121 character125
+character175 character30 character77
+character79 character46 character47
+character99 character2 character89
+character169 character138 character37
+character172 character135 character171
+character120 character85 character92
+character189 character67 character87
+character73 character12 character4
+character63 character27 character43
+character177 character126 character51
+character124 character15 character73
+character187 character122 character123
+character163 character13 character30
+character128 character55 character65
+character107 character50 character79
+character89 character26 character32
+character168 character124 character130
+character139 character2 character53
+character26 character4 character7
+character128 character62 character93
+character181 character137 character146
+character173 character11 character169
+character142 character117 character67
+character165 character119 character45
+character181 angel character54
+character167 character128 character66
+character151 character10 character49
+character93 character13 character8
+character158 character80 character88
+character184 character181 character54
+character172 character135 character164
+character187 character137 character61
+character155 character120 typhoon
+character184 character100 character62
+character155 character103 character82
+character66 character36 pixie
+character54 angel character10
+character161 character120 character51
+character117 character38 character89
+character178 character68 character90
+character86 character14 character85
+character82 character27 character66
+character149 character0 character144
+character175 character10 character11
+character89 character51 character6
+character105 character103 character37
+character137 character12 character20
+character135 character126 character91
+character161 character19 character7
+character187 character4 thor
+character188 character147 character18
+character125 angel character59
+character17 character15 succubus
+character117 character99 thor
+character109 character92 character93
+character118 character114 character54
+character172 character11 character90
+character152 character149 character79
+character23 character10 character12
+character155 character37 character91
+character145 character42 character93
+character178 character131 character17
+character121 character5 orobas
+character189 character165 character8
+character153 character47 character87
+character159 character119 character79
+character177 character108 character93
+character187 character169 character2
+character159 character153 character25
+character106 character14 character79
+character143 character30 character74
+character120 character57 character79
+character158 character155 character93
+character157 character115 character34
+character93 character73 pixie
+character188 character85 character86
+character109 character53 succubus
+character126 character84 typhoon
+character118 character104 character93
+character119 character41 character56
+character172 character34 character43
+character89 character14 character37
+character148 character44 character71
+character99 character12 character26
+character166 character48 character81
+character185 character114 character64
+character175 character21 character49
+character178 character30 character48
+character169 character17 character74
+character41 character10 character28
+character114 character16 character7
+character128 character36 character70
+character42 character12 character36
+character66 angel character63
+character152 character24 character6
+character130 character14 character58
+character146 character107 character47
+character170 character55 character75
+character169 character143 character99
+character145 character19 character75
+character167 character109 character8
+character127 character29 character60
+character126 character10 character105
+character179 character177 shiva
+character141 character2 character97
+character41 character18 character32
+character169 character15 character97
+character104 character23 character49
+character166 character126 character17
+character98 orobas typhoon
+character144 phoenix pixie
+character174 character168 character20
+character179 character57 character94
+character137 character100 character103
+character159 character43 character82
+character170 character136 character58
+character159 character136 character90
+character182 character148 character7
+character170 character108 character150
+character128 character117 character118
+character141 character44 character79
+character100 character32 character69
+character169 character42 character80
+character81 character26 character37
+character138 character125 character28
+character181 character23 mithra
+character60 character15 character4
+character184 character119 character93
+character173 character60 orobas
+character181 character15 character38
+character183 character150 character30
+character59 character27 character57
+character130 character2 character78
+character161 character45 character81
+character163 character4 character69
+character147 character52 typhoon
+character185 character59 character63
+character189 character140 character18
+character62 character20 character7
+character144 character72 thor
+character101 character69 character86
+character178 character69 character81
+character125 character20 character26
+character136 character15 character93
+character187 character171 character72
+character167 character149 character74
+character132 character116 character35
+character110 character45 character8
+character49 angel character34
+character65 character46 character60
+character150 character53 typhoon
+character160 character109 character36
+character76 character17 character19
+character105 character101 character93
+character94 character66 orobas
+character131 character116 character88
+character125 character116 character16
+character184 character181 character7
+character183 character155 character156
+character134 character101 character102
+character115 character31 character76
+character184 character59 character97
+character186 character125 character141
+character186 character10 character137
+character184 character129 character174
+character179 character116 character149
+character150 character53 character9
+character185 character138 character164
+character138 character121 character47
+character166 character139 character85
+character138 character129 character87
+character169 character105 character52
+character169 character160 character23
+character136 character29 character58
+character189 character183 character58
+character183 character133 character141
+character155 character104 character2
+character104 character29 character40
+character183 character107 character53
+character129 character81 character94
+character188 character149 character56
+character127 character120 character9
+character170 character48 character59
+character138 character122 character66
+character46 character22 character8
+character99 character38 character87
+character125 character123 character70
+character176 character143 character94
+character175 character107 character135
+character175 character166 character51
+character186 character13 character75
+character123 character10 character66
+character102 character26 character5
+character136 character42 character46
+character102 character38 character4
+character126 character43 character63
+character137 character108 character13
+character113 character11 character30
+character133 character48 character77
+character159 character147 character26
+character100 character34 character8
+character93 character74 shiva
+character172 character66 character9
+character42 character17 character40
+character96 character74 typhoon
+character122 character69 character84
+character169 character3 character73
+character154 character114 character36
+character185 character74 pixie
+character118 character44 typhoon
+character107 character102 succubus
+character92 angel character75
+character68 character0 character64
+character187 character166 character67
+character186 character164 character185
+character118 character0 character101
+character55 character2 character48
+character120 character22 pixie
+character117 character27 character50
+character115 character105 character7
+character170 character129 character41
+character113 character59 character65
+character170 character20 character99
+character115 character104 ifrit
+character135 character106 character44
+character70 character29 ifrit
+character38 character8 mithra
+character187 character137 character64
+character119 character30 character68
+character181 character176 character56
+character178 character161 character175
+character110 character35 shiva
+character172 character36 character76
+character170 character100 character108
+character165 character101 character78
+character70 character15 pixie
+character91 character56 character76
+character150 character134 character138
+character140 character104 character118
+character126 character13 character62
+character183 character146 character55
+character145 character104 character37
+character147 character49 character98
+character187 character137 character142
+character74 character52 character62
+character87 character71 phoenix
+character144 character44 character46
+character181 character0 character161
+character106 character72 character83
+character179 character115 character129
+character171 character105 ifrit
+character8 character0 character1
+character186 character160 character9
+character123 character2 character31
+character121 character13 character15
+character84 character21 character3
+character75 character31 character49
+character116 character46 character6
+character182 character164 character58
+character135 character28 character68
+character182 character148 character62
+character77 character63 character71
+character97 character37 character61
+character93 character12 character63
+character105 character44 character98
+character189 character141 character21
+character162 character110 character153
+character74 character51 pixie
+character130 character112 character115
+character181 character12 character50
+character150 character106 character118
+character169 character161 character53
+character167 character69 character7
+character80 character40 character66
+character146 character89 typhoon
+character140 character37 character76
+character156 character37 character47
+character111 character13 character59
+character164 character132 character144
+character141 character72 character78
+character115 character101 character42
+character162 character17 character70
+character99 character88 mithra
+character107 angel character41
+character156 character143 character19
+character82 character0 character33
+character170 character58 character83
+character55 character11 character3
+character147 character129 character48
+character183 character111 character150
+character122 character61 character96
+character92 character14 character33
+character157 character147 character49
+character80 character28 character35
+character86 character47 character7
+character183 character114 character131
+character171 character122 character158
+character163 character118 character21
+character178 character169 character25
+character151 character63 character65
+character127 character113 character73
+character141 character50 character62
+character117 character103 character36
+character95 character32 character59
+character183 character155 character53
+character112 character21 character73
+character179 character38 character69
+character50 character43 character45
+character127 character27 character87
+character182 character179 character91
+character176 character159 character47
+character39 mithra succubus
+character155 character103 character126
+character187 character166 character74
+character70 character14 pixie
+character131 character124 character78
+character161 character17 pixie
+character126 character58 character77
+character56 character30 character31
+character152 character109 character132
+character138 character10 character81
+character126 character80 orobas
+character66 character46 character48
+character171 character23 thor
+character136 character102 character79
+character86 character28 character51
+character176 character142 character68
+character135 character114 character59
+character170 character121 character166
+character103 character20 character65
+character122 character0 character22
+character181 character98 orobas
+character80 character53 character65
+character154 character38 character5
+character157 character146 character22
+character41 character24 succubus
+character126 character5 pixie
+character149 character70 thor
+character74 character12 character21
+character102 character101 thor
+character180 character128 succubus
+character60 character38 character54
+character186 character28 character90
+character175 character10 character157
+character115 character112 character53
+character176 character8 character9
+character171 character64 character67
+character84 character40 character57
+character162 character11 character152
+character153 character100 character13
+character143 character116 character61
+character167 character116 character60
+character152 character100 ifrit
+character180 character58 character84
+character189 character116 character164
+character133 character30 character52
+character78 character1 character40
+character189 character11 character124
+character185 character131 character94
+character167 character141 character36
+character122 character119 character18
+character180 character75 character78
+character130 angel character50
+character129 angel character49
+character163 character45 character91
+character167 character142 character19
+character67 character17 character23
+character161 character103 character85
+character161 character137 character60
+character187 character33 character57
+character114 character113 character51
+character162 character33 character37
+character184 character176 character178
+character145 character20 character46
+character143 character130 character20
+character164 character139 character62
+character138 character116 character36
+character172 character166 shiva
+character135 character10 character19
+character100 character38 character7
+character161 character100 character96
+character85 character1 character37
+character104 character12 character71
+character45 character28 character30
+character168 character38 character80
+character129 character116 character59
+character171 character20 shiva
+character18 character7 pixie
+character181 character23 character73
+character148 character97 orobas
+character157 character116 character14
+character174 character101 character170
+character166 character30 character84
+character149 character32 character53
+character189 character10 character56
+character64 character15 character47
+character166 character64 character77
+character168 character24 character50
+character183 character173 character25
+character173 character13 character71
+character105 character18 character44
+character183 character29 character73
+character114 character111 character45
+character166 character131 phoenix
+character20 character8 pixie
+character189 character154 character62
+character117 character105 character56
+character188 character7 character74
+character91 character25 character84
+character153 character81 character93
+character188 character126 phoenix
+character185 character122 character6
+character113 character101 character71
+character140 character109 character50
+character167 character98 pixie
+character153 character102 character9
+character143 character66 character70
+character187 character129 character75
+character183 character129 character160
+character164 character1 character91
+character46 character19 character35
+character148 character34 character85
+character188 character123 character73
+character65 character26 character33
+character180 character10 character46
+character172 character158 character97
+character134 character87 mithra
+character169 character71 character98
+character117 character10 character112
+character46 character25 character40
+character54 character49 character53
+character150 character30 character90
+character104 character36 character38
+character185 character29 character57
+character90 character51 mithra
+character98 character62 typhoon
+character106 character2 character64
+character144 character16 character52
+character173 character106 character148
+character154 character140 character77
+character161 character145 character156
+character166 character124 character55
+character137 character18 character48
+character142 character87 orobas
+character148 character101 character128
+character182 character172 character30
+character138 character101 character99
+character170 character143 character154
+character181 character48 character70
+character130 character120 character5
+character166 character10 character121
+character120 character16 character55
+character102 character76 character83
+character150 character146 character147
+character141 character108 character87
+character139 character30 character79
+character175 character128 orobas
+character148 character140 character50
+character188 character142 character66
+character174 character149 character151
+character168 character145 character49
+character169 character3 character81
+character138 character35 character58
+character179 character47 thor
+character182 character4 character74
+character79 character19 character9
+character112 character37 character79
+character108 character54 character99
+character143 character19 character99
+character144 character122 character80
+character113 character2 character61
+character153 character150 character7
+character85 character60 character78
+character159 character144 character2
+character175 character33 thor
+character185 character23 character96
+character157 character107 character38
+character90 character2 character7
+character50 character49 ifrit
+character157 character154 character8
+character147 character29 character50
+character150 character135 character68
+character85 character54 ifrit
+character79 character13 phoenix
+character176 character119 character127
+character181 character139 character9
+character157 character100 character64
+character139 character127 character42
+character130 character48 shiva
+character163 character77 character97
+character145 character16 character19
+character187 character103 character88
+character143 character3 character66
+character173 character30 character91
+character141 character131 character138
+character185 character108 character161
+character83 angel character48
+character116 character111 character87
+character148 character147 character83
+character171 character4 mithra
+character161 character78 mithra
+character175 character117 character50
+character74 character19 character48
+character73 character11 character39
+character71 character19 character3
+character187 character131 character134
+character184 character26 character85
+character176 character12 character147
+character170 character55 character76
+character87 character22 character53
+character156 character38 character39
+character168 character45 character89
+character164 character125 character87
+character128 character65 phoenix
+character150 character142 character62
+character182 character108 character74
+character139 character128 character77
+character138 character66 character77
+character176 character52 character93
+character184 character119 character57
+character120 character74 character81
+character115 character4 character70
+character187 character145 character32
+character172 character5 character51
+character184 character107 character119
+character142 character114 character60
+character152 character30 character33
+character169 character112 character94
+character163 character15 character92
+character148 character123 character14
+character142 character132 character26
+character187 character47 character53
+character178 character65 character68
+character185 character151 character62
+character88 character14 character51
+character147 character38 character63
+character155 character103 character151
+character64 character32 character51
+character147 character40 character88
+character139 character116 character74
+character186 character10 character135
+character89 character24 ifrit
+character148 character142 character95
+character177 character116 character24
+character152 character120 character35
+character124 character54 character59
+character133 character52 character86
+character167 character113 character147
+character138 character123 character131
+character92 character1 character65
+character175 character139 character155
+character94 character55 character66
+character110 character2 character82
+character158 character97 typhoon
+character171 character10 character88
+character182 character55 character59
+character161 character68 typhoon
+character76 character56 character75
+character111 character46 character56
+character136 character122 character85
+character145 character47 character72
+character151 character128 character59
+character151 character16 character17
+character128 character109 character61
+character139 character103 character19
+character178 character136 character145
+character141 character115 character3
+character111 character108 character11
+character168 character16 mithra
+character58 character15 character40
+character170 character126 character151
+character145 character27 character69
+character161 character152 character76
+character148 character145 character61
+character57 character2 character46
+character178 character133 character71
+character158 character107 character86
+character142 character78 character82
+character176 character2 phoenix
+character55 character28 character48
+character34 character3 character5
+character135 character114 character51
+character183 character66 character83
+character119 character52 character88
+character172 character168 character81
+character145 character138 character14
+character131 character17 character25
+character134 character115 character77
+character169 character14 typhoon
+character173 character166 orobas
+character159 character48 ifrit
+character134 character57 mithra
+character175 character152 character52
+character61 character33 character52
+character104 character6 character84
+character99 character54 character72
+character109 character25 phoenix
+character188 character135 character186
+character183 character135 character181
+character112 character54 character69
+character90 character38 character55
+character174 character116 character84
+character176 character12 character48
+character110 character45 character55
+character188 character57 character85
+character70 character55 pixie
+character76 character67 character69
+character69 character21 character7
+character71 character33 character39
+character156 character23 character55
+character110 character106 character74
+character170 character125 character13
+character116 character101 character20
+character87 character17 mithra
+character86 character41 typhoon
+character137 character102 character16
+character129 character39 character89
+character150 character148 character83
+character126 character16 character90
+character117 character1 character82
+character155 character57 ifrit
+character130 character5 character63
+character181 character136 character157
+character148 character112 character142
+character160 character34 character69
+character122 character37 shiva
+character110 character27 character58
+character65 character20 character58
+character161 character3 character90
+character186 character64 character74
+character103 character100 character94
+character103 character59 character94
+character164 character13 character146
+character173 character159 character168
+character118 character26 character50
+character153 character36 character93
+character186 character146 character74
+character156 character132 character27
+character155 character117 character128
+character179 character173 ifrit
+character81 character10 character20
+character157 character4 character60
+character95 character10 character62
+character187 character4 character81
+character184 character15 character7
+character188 angel character82
+character111 character107 character82
+character138 character33 character91
+character164 character13 character69
+character145 character22 character83
+character156 character152 character67
+character177 character110 character21
+character161 character5 character92
+character157 character109 character121
+character55 character44 succubus
+character134 character15 character65
+character183 character56 character62
+character113 angel character58
+character68 character46 character9
+character145 character57 character87
+character172 character81 character86
+character184 character116 shiva
+character186 character158 character7
+character127 character7 character81
+character46 character27 thor
+character84 character24 character44
+character185 character165 character87
+character188 character33 character87
+character186 character179 character70
+character114 character0 character43
+character141 character134 character27
+character169 character92 typhoon
+character177 character112 character26
+character83 character80 phoenix
+character176 character28 character36
+character139 character51 orobas
+character149 character104 character6
+character113 character22 orobas
+character153 character74 character95
+character179 character36 character43
+character169 character164 character94
+character151 character68 character83
+character158 character30 character86
+character153 character59 character71
+character118 character18 character90
+character179 character52 mithra
+character114 character41 character46
+character107 character34 character61
+character161 character139 character64
+character145 character100 character65
+character135 character77 character83
+character152 character48 character67
+character152 character131 character143
+character105 character17 character33
+character97 character1 character42
+character180 character148 character27
+character181 character120 character154
+character104 character68 character85
+character168 character132 character160
+character49 character47 character6
+character122 character43 character95

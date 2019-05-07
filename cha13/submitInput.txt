@@ -1,0 +1,51 @@
+50
+87000 character97 1 skill13
+23500 character125 1 skill68
+86140 character118 2 skill78 skill4
+97860 character127 3 skill67 ice skill34
+11440 character102 3 skill21 wind skill58
+39700 character103 3 skill34 skill19 skill8
+42000 character118 3 skill13 skill34 skill42
+37580 character120 3 skill21 resist_thunder skill61
+23200 character138 3 cure wind skill69
+72520 character142 4 skill44 skill73 skill36 skill18
+91090 character96 4 skill13 skill57 skill51 skill58
+34070 character120 4 skill36 skill10 skill49 skill58
+41450 character123 4 skill57 skill23 skill0 skill42
+8840 character144 4 skill56 skill82 skill65 skill8
+96090 character169 4 skill1 skill10 skill26 ice
+66370 character103 4 skill3 thunder skill9 skill30
+55000 character99 4 skill29 skill30 skill77 skill61
+91880 character155 5 skill57 skill12 skill80 skill18 skill32
+97060 character155 5 skill49 resist_fire skill15 skill59 skill43
+76400 character164 5 dark skill78 skill75 skill6 skill34
+20510 character138 5 resurrect fire skill73 skill29 skill51
+15660 character166 5 resist_wind resurrect resist_thunder skill47 skill17
+41960 character189 5 resist_wind skill45 skill36 skill39 ice
+75940 character187 5 skill66 light skill82 skill10 skill60
+38610 character184 5 fire dark skill62 skill24 increase_defense
+1630 character159 6 fire skill6 skill4 skill19 skill20 wind
+62350 character140 6 skill71 skill70 skill1 skill75 resist_dark skill36
+95090 character157 6 skill57 skill5 skill50 skill10 skill62 skill36
+85580 character185 6 skill71 skill73 skill53 skill52 ice skill69
+3680 character181 6 skill72 skill6 skill65 skill62 skill31 wind
+31820 character170 6 skill44 skill66 resist_thunder skill63 skill30 wind
+86930 character179 6 skill56 skill77 skill13 skill28 skill10 skill62
+22820 character187 6 skill70 skill40 skill42 skill23 skill81 skill69
+4310 character154 6 thunder skill55 skill29 skill39 skill34 skill1
+10320 character170 6 skill47 dark skill28 skill17 skill60 skill36
+83370 character159 7 increase_defense skill6 skill14 skill80 skill18 skill68 skill32
+71830 character155 7 skill8 skill70 skill0 skill4 skill62 skill34 skill33
+67670 character183 7 skill83 resist_dark skill76 skill67 skill29 skill17 skill18
+45670 character172 7 light skill72 skill5 resist_dark skill2 skill80 skill23
+90090 character179 7 light skill72 skill10 skill68 skill60 skill24 skill33
+43350 character153 7 skill8 skill45 skill42 resurrect skill39 skill23 skill69
+62140 character134 7 skill78 skill77 resurrect skill63 skill34 skill31 skill24
+50300 character170 8 skill71 thunder skill46 skill52 skill6 dark resist_thunder skill82
+75850 character173 8 skill72 skill0 skill7 skill5 skill76 skill11 skill10 skill27
+53560 character175 8 skill8 resist_light skill7 skill42 skill28 skill65 skill61 resist_fire
+19650 character176 8 skill2 skill51 skill12 skill65 skill63 skill14 skill35 skill31
+62870 character172 9 skill3 skill1 skill75 skill77 skill4 increase_attack skill44 resist_light skill29
+30960 character175 10 skill44 skill56 skill53 cure skill62 skill63 skill35 skill17 resist_fire skill29
+49700 character180 10 skill49 skill58 skill70 skill73 skill7 skill42 increase_attack skill11 skill22 skill83
+100000 character128 10 skill36 skill46 skill43 skill1 ice skill2 skill3 skill4 skill5 skill6

@@ -1,0 +1,4 @@
+3
+200 ifrit 2 ice resist_wind
+100 shiva 0
+500 phoenix 2 dark ice
